@@ -1,0 +1,11 @@
+Software: 
+Revit - https://www.autodesk.co.uk/products/revit/overview?term=1-YEAR&tab=subscription
+Rhino (Rhinoceros 3D) - https://www.rhino3d.com/
+
+*Grasshopper is a tool that comes with Rhino
+
+Revit Add-ins (Download this to be able to use Grasshopper and Rhino inside Revit): 
+Rhino.Inside - https://www.rhino3d.com/inside/revit/1.0/, https://www.rhino3d.com/features/rhino-inside/
+
+Grasshopper Tools (Download this to be able to read Excel and csv files with Grasshopper):
+TTToolbox (2.0.3) - https://www.food4rhino.com/en/app/tt-toolbox
